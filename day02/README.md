@@ -6,8 +6,8 @@
 - https://repl.it/@sissaz/day-2-2-exercise
 - https://repl.it/@sissaz/day-2-3-exercise
 
-### Band Name Generator
+### Tip Calculator
 
-![band-name-generator-start](band-name-generator-start.gif)
+![tip-calculator](tip-calculator.gif)
 
-https://replit.com/@Sissaz/band-name-generator-start
+https://replit.com/@Sissaz/tip-calculator
