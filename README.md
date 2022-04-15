@@ -3,7 +3,11 @@
 </p>
 
 This repository it's for keeping safe and sound my challenges from each day in the "100 Days of Code - The Complete Python Pro Bootcamp for 2022" course from Udemy.
+<br />
+<br>
 To the mastery of Python and beyond! 
+<br />
+<br>
 [100 Days of Code - The Complete Python Pro Bootcamp for 2022](https://www.udemy.com/course/100-days-of-code).
 
 ## 👨🏻‍🎓 | Beginner
