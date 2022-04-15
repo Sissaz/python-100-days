@@ -12,7 +12,7 @@ To the mastery of Python and beyond!
 
 ## 👨🏻‍🎓 | Beginner
 - [Day 1](https://github.com/Sissaz/python-100-days/tree/main/day01#day-1---working-with-variables-in-python-to-manage-data): Working with Variables in Python to Manage Data
-- [Day 2](day02): Understanding Data Types and How to Manipulate Strings
+- [Day 2](https://github.com/Sissaz/python-100-days/tree/main/day02#day-2---understanding-data-types-and-how-to-manipulate-strings): Understanding Data Types and How to Manipulate Strings
 - [Day 3](day03): Control Flow and Logical Operators
 - [Day 4](day04): Randomisation and Python Lists
 - [Day 5](day05): Python Loops
