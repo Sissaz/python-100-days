@@ -1,30 +1,12 @@
-<p align="center">
-<img width="" src="https://media.giphy.com/media/kPVTbiTORIopy/giphy.gif" align="center" alt="gif" />
-<h1 align="center">100 Days of Python 🐍 
-    <a href="https://twitter.com/intent/tweet?&url=https://github.com/lenargasimov/100-days-of-python&via=lenargasimov&hashtags=html,css,bootstrap,js,python,flask,100daysofcode,developers">
-      <img alt="Tweet" src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social" />
-    </a>
+## 🐍 | 100 Days of Python
 </h1>
 </p>
 
-<p align="center">
-    <img src="https://img.shields.io/github/last-commit/lenargasimov/100-days-of-python?style=plastic" alt="GitHub last commit">
-    <img src="https://img.shields.io/github/forks/lenargasimov/100-days-of-python.svg" alt="">
-    <img src="https://img.shields.io/github/stars/lenargasimov/100-days-of-python.svg" alt="">
-</p>
+This repository it's for keeping safe and sound my challenges from each day in the "100 Days of Code - The Complete Python Pro Bootcamp for 2022" course from Udemy.
+To the mastery of Python and beyond! 
+[100 Days of Code - The Complete Python Pro Bootcamp for 2022](https://www.udemy.com/course/100-days-of-code).
 
-I'm completed in "100 Days of Code - The Complete Python Pro Bootcamp for 2021" course from Udemy.
-Since my goal is to master Python, I chose to take this course in the hope it would provide more structure and better
-guidance than I was getting while "self-learning".
-While taking part in this course, I have been taking notes and what-not and attempting all of the course projects to the
-best of my abilities.
-I'll be using this repo as a way for myself to access them as, if and when I need them.
-100 projects in 100 days. All the personal projects for Great professor and great course, really recommend it:
-[100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://www.udemy.com/course/100-days-of-code).
-
-![wallpaper](wallpaper.png)
-
-## 👨🏻‍🎓 Beginner
+## 👨🏻‍🎓 | Beginner
 - [Day 1](day01): Working with Variables in Python to Manage Data
 - [Day 2](day02): Understanding Data Types and How to Manipulate Strings
 - [Day 3](day03): Control Flow and Logical Operators
@@ -40,7 +22,7 @@ I'll be using this repo as a way for myself to access them as, if and when I nee
 - [Day 13](day13): Debugging: How to Find and Fix Errors in your Code
 - [Day 14](day14): Higher Lower Game Project
 
-## 🏋🏻‍♂️ Intermediate
+## 🏋🏻‍♂️ | Intermediate
 - [Day 15](day15): Local Development Environment Setup & the Coffee Machine Project
 - [Day 16](day16): Object Oriented Programming (OOP)
 - [Day 17](day17): The Quiz Project & the Benefits of OOP
@@ -59,7 +41,7 @@ I'll be using this repo as a way for myself to access them as, if and when I nee
 - [Day 30](day30): Errors, Exceptions and JSON Data: Improving the Password Manager
 - [Day 31](day31): Capstone Project - Flash Card App
 
-## 💪 Intermediate+
+## 💪 | Intermediate+
 - [Day 32](day32): Send Email (smtplib) & Manage Dates (datetime): The Automated Birthday Wisher
 - [Day 33](day33): API Endpoints and API Parameters - ISS Overhead Notifier
 - [Day 34](day34): API Practice - Creating a GUI Quiz App
@@ -88,7 +70,7 @@ I'll be using this repo as a way for myself to access them as, if and when I nee
 - [Day 57](day57): Templating with Jinja and Blog Project
 - [Day 58](day58): Bootstrap
 
-## 🚀 Advanced
+## 🚀 | Advanced
 - [Day 59](day59): Upgraded Blog with Bootstrap
 - [Day 60](day60): HTML Forms with Flask
 - [Day 61](day61): Building Advanced Forms with WTForms
@@ -112,7 +94,7 @@ I'll be using this repo as a way for myself to access them as, if and when I nee
 - [Day 79](day79): The Tragic Discovery of Handwashing: t-Tests & Distributions
 - [Day 80](day80): Capstone Project - Predict House Prices
 
-## 👨‍💻 Professional
+## 👨‍💻 | Professional
 - [Day 81](day81): Portfolio Project - Text to Morse Code Converter
 - [Day 82](day82): Portfolio Project - A website to show off your skills and the things I built
 - [Day 83](day83): Portfolio Project - Built a text-based version of the Tic Tac Toe game
@@ -133,54 +115,3 @@ I'll be using this repo as a way for myself to access them as, if and when I nee
 - [Day 98](day98): Portfolio Project - Analysed and Visualise the Space Race
 - [Day 99](day99): Portfolio Project - Analyzing Deaths involving Police in the United States
 - [Day 100](day100): Portfolio Project - Predicting Earnings using Multivariable Regression
-
-## Tools and technologies
-
-- Python 3
-- PyCharm, Jupyter Notebook, Google Colab
-- Python Scripting and Automation
-- Python Game Development
-- Web Scraping
-- Beautiful Soup
-- Selenium Web Driver
-- Request
-- WTForms
-- Data Science
-- Pandas
-- NumPy
-- Matplotlib
-- Plotly
-- Scikit learn
-- Seaborn
-- Turtle
-- Python GUI Desktop App Development
-- Tkinter
-- Front-End Web Development
-- HTML 5
-- CSS 3
-- Bootstrap 4
-- Bash Command Line
-- Git, GitHub and Version Control
-- Backend Web Development
-- Flask
-- REST
-- APIs
-- Databases
-- SQL
-- SQLite
-- PostgreSQL
-- Authentication
-- Web Design
-- Deployment with GitHub Pages, Heroku and GUnicorn
-
-![certificate](certificate.jpg)
-
-This certificate above verifies that Lenar Gasimov successfully completed the course 
-[100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://www.udemy.com/course/100-days-of-code)  on 05/20/2021 as taught by Dr. Angela Yu on Udemy. 
-The certificate indicates the entire course was completed as validated by the student. 
-The course duration represents the total video hours of the course at time of most recent completion.
-
----
-
-@lenargasimov 🐍 2021
-
