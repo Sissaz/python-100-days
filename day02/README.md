@@ -2,10 +2,10 @@
 
 ### Exercise
 
-- https://repl.it/@sissaz/day-1-1-exercise
-- https://repl.it/@sissaz/day-1-2-exercise
-- https://repl.it/@sissaz/day-1-3-exercise
-- https://repl.it/@sissaz/day-1-4-exercise
+- https://repl.it/@sissaz/day-2-1-exercise
+- https://repl.it/@sissaz/day-2-2-exercise
+- https://repl.it/@sissaz/day-2-3-exercise
+- https://repl.it/@sissaz/day-3-4-exercise
 
 ### Band Name Generator
 
