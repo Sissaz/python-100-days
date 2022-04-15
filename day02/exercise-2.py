@@ -1,13 +1,5 @@
 ## BMI Calculator
 
-# UPDATE
-We've moved away from repl.it for coding exercises.
-Check out the new exercises on Coding Rooms with automated submissions.
-
-Login to your Udemy course and head over to the link below to get the sign up link:
-
-[Click here](https://www.udemy.com/course/100-days-of-code/learn/lecture/17825914#questions)
-
 # Instructions
 
 Write a program that calculates the Body Mass Index (BMI) from a user's weight and height.
@@ -37,12 +29,8 @@ height = 1.75
 ```
 26
 ```
-
-e.g. When you hit **run**, this is what should happen:  
-
-![](https://cdn.fs.teachablecdn.com/wmjVjddeSmGj0QVtOUrE)
              
-######################
+## BMI Calculator
              
 # 🚨 Don't change the code below 👇
 height = input("enter your height in m: ")
