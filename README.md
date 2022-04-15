@@ -7,7 +7,7 @@ To the mastery of Python and beyond!
 [100 Days of Code - The Complete Python Pro Bootcamp for 2022](https://www.udemy.com/course/100-days-of-code).
 
 ## 👨🏻‍🎓 | Beginner
-- [Day 1](day01): Working with Variables in Python to Manage Data
+- [Day 1](https://github.com/Sissaz/python-100-days/tree/main/day01#day-1---working-with-variables-in-python-to-manage-data): Working with Variables in Python to Manage Data
 - [Day 2](day02): Understanding Data Types and How to Manipulate Strings
 - [Day 3](day03): Control Flow and Logical Operators
 - [Day 4](day04): Randomisation and Python Lists
