@@ -24,4 +24,31 @@ print(2 ** 3)
 
 print(3 * 3 + 3 / 3 - 3)
 # 7.0
-#
+
+# Arrendondar
+print(round(8/3))
+# 3
+
+print(round(8/3 , 2))
+# O 2 indica as casas decimais
+# 2.67
+
+print( 4 / 2 )
+# Retorna Float
+
+print( 4 // 2 )
+# Retorna Int
+
+score = 0
+
+# Usuario faz 1 ponto
+
+score += 1
+
+print(score)
+
+# Usario perde 1 ponto
+
+score -= 1
+
+print(score)
