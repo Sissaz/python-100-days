@@ -9,6 +9,6 @@
 
 ### Band Name Generator
 
-![band name generator](band_name_generator.gif)
+![band-name-generator-start](band-name-generator-start.gif)
 
 https://replit.com/@Sissaz/band-name-generator-start
