@@ -11,4 +11,4 @@
 
 ![band name generator](band_name_generator.gif)
 
-https://repl.it/@sissaz/band-name-generator-end
+https://replit.com/@Sissaz/band-name-generator-start
