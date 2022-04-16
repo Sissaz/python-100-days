@@ -54,3 +54,24 @@ The testing code will check for print output that is formatted like one of the l
 
 ## BMI Calculator 2.0
 
+height = float(input("enter your height in m: "))
+weight = float(input("enter your weight in kg: "))
+result = ((weight)/(height**2))
+result = (round(result))
+if result < 18.5:
+  print(f"Your BMI is {result}, you are underweight.")
+elif 18.5 < result < 25:
+  print(f"Your BMI is {result}, you have a normal weight.")
+elif 25 < result < 30:
+  print(f"Your BMI is {result}, you are slightly overweight.")
+elif 30 < result < 35:
+  print(f"Your BMI is {result}, you are obese.")
+else:
+  print(f"Your BMI is {result}, you are clinically obese.")
+
+##
+  
+# enter your height in m: 1.60
+# enter your weight in kg: 60
+# Your BMI is 23, you have a normal weight.
+
