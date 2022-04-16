@@ -2,12 +2,12 @@
 
 ### Exercise
 
-- https://repl.it/@sissaz/day-2-1-exercise
-- https://repl.it/@sissaz/day-2-2-exercise
-- https://repl.it/@sissaz/day-2-3-exercise
+- https://replit.com/@Sissaz/day-2-1-exercise?v=1
+- https://replit.com/@Sissaz/day-2-2-exercise?v=1
+- https://replit.com/@Sissaz/day-2-3-exercise?v=1
 
 ### Tip Calculator
 
 ![tip-calculator](tip-calculator.gif)
 
-https://replit.com/@Sissaz/tip-calculator
+https://replit.com/@Sissaz/tip-calculator?v=1
