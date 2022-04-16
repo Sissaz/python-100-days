@@ -2,13 +2,13 @@
 
 ### Exercise
 
-- https://repl.it/@sissaz/day-1-1-exercise
-- https://repl.it/@sissaz/day-1-2-exercise
-- https://repl.it/@sissaz/day-1-3-exercise
-- https://repl.it/@sissaz/day-1-4-exercise
+- https://replit.com/@Sissaz/day-1-1-exercise?v=1
+- https://replit.com/@Sissaz/day-1-2-exercise?v=1
+- https://replit.com/@Sissaz/day-1-3-exercise?v=1
+- https://replit.com/@Sissaz/day-1-4-exercise?v=1
 
 ### Band Name Generator
 
 ![band-name-generator-start](band-name-generator-start.gif)
 
-https://replit.com/@Sissaz/band-name-generator-start
+https://replit.com/@Sissaz/band-name-generator-start?v=1
