@@ -2,7 +2,7 @@
 
 ### Exercise
 
-- https://repl.it/@sissaz/day-3-1-exercise
+- https://replit.com/@Sissaz/day-3-1-exercise?v=1
 - https://repl.it/@sissaz/day-3-2-exercise
 - https://repl.it/@sissaz/day-3-3-exercise
 
