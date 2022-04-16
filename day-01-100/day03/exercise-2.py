@@ -60,11 +60,11 @@ result = ((weight)/(height**2))
 result = (round(result))
 if result < 18.5:
   print(f"Your BMI is {result}, you are underweight.")
-elif 18.5 < result < 25:
+elif result < 25:
   print(f"Your BMI is {result}, you have a normal weight.")
-elif 25 < result < 30:
+elif result < 30:
   print(f"Your BMI is {result}, you are slightly overweight.")
-elif 30 < result < 35:
+elif result < 35:
   print(f"Your BMI is {result}, you are obese.")
 else:
   print(f"Your BMI is {result}, you are clinically obese.")
