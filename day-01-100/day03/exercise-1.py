@@ -64,3 +64,16 @@ This is an even number.
 
 ## Odd or Even
 
+number = int(input("Which number do you want to check? "))
+number = number % 2
+if number != 0:
+  print("This is a odd number.")
+else:
+  print("This is a even number.")
+ 
+##
+
+# Which number do you want to check? 54
+# This is a even number.
+
+  
