@@ -22,10 +22,24 @@ Michael is going to buy the meal today!
 
 ## Who's Paying
 
+
 # Split string method
+import random
+
 names_string = input("Give me everybody's names, separated by a comma. ")
 names = names_string.split(", ")
 # 🚨 Don't change the code above 👆
 
 #Write your code below this line 👇
+
+names_len = len(names)
+
+random_payer = random.randint(0, names_len - 1)
+
+
+#Storando os nomes fornecidos no codigo em uma lista chamada pagantes:
+pagante = names[random_payer]
+
+print(f"{pagante} is going to buy the meal today")
+
 
