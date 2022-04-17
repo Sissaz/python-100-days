@@ -4,7 +4,7 @@
 
 - https://replit.com/@Sissaz/day-3-1-exercise?v=1
 - https://replit.com/@Sissaz/day-3-2-exercise?v=1
-- https://repl.it/@sissaz/day-3-3-exercise
+- https://replit.com/@Sissaz/day-3-3-exercise?v=1
 
 ### Tip Calculator
 
