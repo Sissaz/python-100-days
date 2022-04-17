@@ -11,3 +11,4 @@
 ![tip-calculator](tip-calculator.gif)
 
 https://replit.com/@Sissaz/tip-calculator?v=1
+
