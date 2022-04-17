@@ -4,9 +4,10 @@
 
 - https://replit.com/@Sissaz/day-4-1-exercise?v=1
 - https://replit.com/@Sissaz/day-4-2-exercise?v=1
+- https://replit.com/@Sissaz/day-4-3-exercise?v=1
 
-### Treasure Island
+### Rock Paper Scissors
 
-![treasure-island](treasure-island.gif)
+![rock-paper-scissors](rock-paper-scissors.gif)
 
 https://replit.com/@Sissaz/treasure-island?v=1
