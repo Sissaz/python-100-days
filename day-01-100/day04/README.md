@@ -10,4 +10,4 @@
 
 ![rock-paper-scissors](rock-paper-scissors.gif)
 
-https://replit.com/@Sissaz/treasure-island?v=1
+https://replit.com/@Sissaz/rock-paper-scissors?v=1
