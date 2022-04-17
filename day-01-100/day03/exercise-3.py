@@ -58,3 +58,30 @@ Leap year.
 Not leap year.
 ```
 
+## Leap Year
+
+# 🚨 Don't change the code below 👇
+year = int(input("Which year do you want to check? "))
+# 🚨 Don't change the code above 👆
+
+#Write your code below this line 👇
+
+leap1 = (year % 4)
+leap2 = (year % 100)
+leap3 = (year % 400)
+
+if leap1 != 0:
+  print("Não é bissexto.")
+else:
+  if leap2 != 0:
+    print("É bissexto.")
+  else:
+    if leap3 != 0:
+      print("Não é bissexto.")
+    if leap3 == 0:
+      print("É bissexto.")
+      
+ <div align="center">
+ 
+<a href="https://github.com/Sissaz" > <img width="50%"  src="https://cdn.discordapp.com/attachments/589442956021465142/965052449729683516/Screenshot_2.png" /></a>
+ </div>
