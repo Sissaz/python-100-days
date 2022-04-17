@@ -80,8 +80,3 @@ else:
       print("Não é bissexto.")
     if leap3 == 0:
       print("É bissexto.")
-      
- <div align="center">
- 
-<a href="https://github.com/Sissaz" > <img width="50%"  src="https://cdn.discordapp.com/attachments/589442956021465142/965052449729683516/Screenshot_2.png" /></a>
- </div>
