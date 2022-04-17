@@ -8,8 +8,8 @@
 - https://replit.com/@Sissaz/day-3-4-exercise?v=1
 - https://replit.com/@Sissaz/day-3-5-exercise?v=1
 
-### Tip Calculator
+### Treasure Island
 
 ![tip-calculator](tip-calculator.gif)
 
-https://replit.com/@Sissaz/tip-calculator
+https://replit.com/@Sissaz/treasure-island?v=1
