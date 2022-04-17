@@ -10,6 +10,6 @@
 
 ### Treasure Island
 
-![tip-calculator](tip-calculator.gif)
+![treasure-island](treasure-island.gif)
 
 https://replit.com/@Sissaz/treasure-island?v=1
