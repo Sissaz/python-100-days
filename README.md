@@ -15,7 +15,7 @@ To the mastery of Python and beyond!
 - [Day 2](https://github.com/Sissaz/python-100-days/tree/main/day-01-100/day02#day-2---understanding-data-types-and-how-to-manipulate-strings): Understanding Data Types and How to Manipulate Strings
 - [Day 3](https://github.com/Sissaz/python-100-days/tree/main/day-01-100/day03#day-3---control-flow-and-logical-operators): Control Flow and Logical Operators
 - [Day 4](https://github.com/Sissaz/python-100-days/tree/main/day-01-100/day04#day-4---randomisation-and-python-lists): Randomisation and Python Lists
-- [Day 5](day05): Python Loops
+- [Day 5](https://github.com/Sissaz/python-100-days/tree/main/day-01-100/day05#day-5---python-loops): Python Loops
 - [Day 6](day06): Python Functions & Karel
 - [Day 7](day07): Hangman
 - [Day 8](day08): Function Parameters & Caesar Cipher
