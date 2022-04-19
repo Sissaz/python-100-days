@@ -1,4 +1,4 @@
-## Day 5 - Python Loops
+## Day 4 - Randomisation and Python Lists
 
 ### Exercise
 
