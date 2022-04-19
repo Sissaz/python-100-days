@@ -9,6 +9,6 @@
 
 ### Rock Paper Scissors
 
-![rock-paper-scissors](rock-paper-scissors.gif)
+![password-generator](password-generator.gif)
 
-https://replit.com/@Sissaz/rock-paper-scissors?v=1
+https://replit.com/@Sissaz/password-generator?v=1
