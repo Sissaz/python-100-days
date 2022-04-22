@@ -16,7 +16,7 @@ To the mastery of Python and beyond!
 - [Day 3](https://github.com/Sissaz/python-100-days/tree/main/day-01-100/day03#day-3---control-flow-and-logical-operators): Control Flow and Logical Operators
 - [Day 4](https://github.com/Sissaz/python-100-days/tree/main/day-01-100/day04#day-4---randomisation-and-python-lists): Randomisation and Python Lists
 - [Day 5](https://github.com/Sissaz/python-100-days/tree/main/day-01-100/day05#day-5---python-loops): Python Loops
-- [Day 6](day06): Python Functions & Karel
+- [Day 6](https://github.com/Sissaz/python-100-days/tree/main/day-01-100/day06#day-6---python-functions--karel): Python Functions & Karel
 - [Day 7](day07): Hangman
 - [Day 8](day08): Function Parameters & Caesar Cipher
 - [Day 9](day09): Dictionaries, Nesting and the Secret Auction
