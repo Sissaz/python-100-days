@@ -51,6 +51,6 @@ def parede():
 while not at_goal():
     if front_is_clear():
         move()
-    if wall_in_front():
+    elif wall_in_front():
         parede()
 
