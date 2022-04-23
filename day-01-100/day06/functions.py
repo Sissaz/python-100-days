@@ -26,10 +26,4 @@ def siciliafunction():
   print("Bye")
 
 ➡️ siciliafunction()
-
-
-
-
-
  
-
