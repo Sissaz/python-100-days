@@ -30,3 +30,27 @@ while not at_goal():
     caminho()
     if at_goal()is True:
         break
+	
+	
+# Reeborg World Exercise
+# The position and number of hurdles changes each time this world is reloaded.
+# https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%203&url=worlds%2Ftutorial_en%2Fhurdle3.json
+
+def virar():
+    turn_left()
+    turn_left()
+    turn_left()
+def parede():
+    turn_left()
+    move()
+    virar()
+    move()
+    virar()
+    move()
+    turn_left()
+while not at_goal():
+    if front_is_clear():
+        move()
+    if wall_in_front():
+        parede()
+
