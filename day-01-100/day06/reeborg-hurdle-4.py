@@ -48,7 +48,3 @@ while not at_goal():
         move()
         if at_goal():
             break
-
- 
-
-        
