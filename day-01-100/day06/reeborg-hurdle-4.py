@@ -19,8 +19,8 @@ while not at_goal():
                 turn_left()
     if front_is_clear():
         move()
-        if at_goal():
-            break
+    if at_goal():
+        break
      
    
 # Mais Rapido:
@@ -44,7 +44,7 @@ while not at_goal():
                 move()
             if wall_in_front():
                 turn_left()                
-    if front_is_clear():
+    elif front_is_clear():
         move()
-        if at_goal():
-            break
+    elif at_goal():
+        break
