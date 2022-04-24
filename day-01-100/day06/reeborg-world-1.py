@@ -1,5 +1,7 @@
 # Reeborg World Exercise
+
 # Virando o Reeborg:
+
 # https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Alone&url=worlds%2Ftutorial_en%2Falone.json
 
 def turn_right():
@@ -16,7 +18,9 @@ turn_right()
 move()
 
 # Reeborg World Exercise
+
 # Levando Reeborg até o final:
+
 # https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%201&url=worlds%2Ftutorial_en%2Fhurdle1.json
 
 move()
