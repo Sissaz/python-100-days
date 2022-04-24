@@ -9,8 +9,10 @@ for number in range(a,b):
 while something_is_true:
   #Do something repeatedly
 
-# Reeborg World Exercise
+# Reeborg World 2 Exercise
+
 # Chasing the Flag!
+
 # https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%202&url=worlds%2Ftutorial_en%2Fhurdle2.json
 
 def virar():
@@ -32,8 +34,10 @@ while not at_goal():
         break
 	
 	
-# Reeborg World Exercise
+# Reeborg World 3 Exercise
+
 # The position and number of hurdles changes each time this world is reloaded.
+
 # https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%203&url=worlds%2Ftutorial_en%2Fhurdle3.json
 
 def virar():
