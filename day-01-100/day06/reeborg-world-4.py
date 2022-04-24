@@ -1,3 +1,10 @@
+# Reeborg World 4 Exercise
+
+# The position, the height and the number of hurdles changes each time this world is reloaded.
+
+# https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%204&url=worlds%2Ftutorial_en%2Fhurdle4.json
+
+
 # Mais Lento:
 
 def virar():
@@ -23,7 +30,7 @@ while not at_goal():
         break
      
    
-# Mais Rapido:
+# Mais Rapido (melhor):
 
 def virar():
     turn_left()
