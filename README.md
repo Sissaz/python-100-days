@@ -17,7 +17,7 @@ To the mastery of Python and beyond!
 - [Day 4](https://github.com/Sissaz/python-100-days/tree/main/day-01-100/day04#day-4---randomisation-and-python-lists): Randomisation and Python Lists
 - [Day 5](https://github.com/Sissaz/python-100-days/tree/main/day-01-100/day05#day-5---python-loops): Python Loops
 - [Day 6](https://github.com/Sissaz/python-100-days/tree/main/day-01-100/day06#day-6---python-functions--karel): Python Functions & Karel
-- [Day 7](day07): Hangman
+- [Day 7](https://github.com/Sissaz/python-100-days/tree/main/day-01-100/day07#day-7---hangman): Hangman
 - [Day 8](day08): Function Parameters & Caesar Cipher
 - [Day 9](day09): Dictionaries, Nesting and the Secret Auction
 - [Day 10](day10): Function Return Values and the Calculator Project
