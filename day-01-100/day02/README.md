@@ -12,3 +12,6 @@
 
 https://replit.com/@Sissaz/tip-calculator?v=1
 
+<div align="center">
+<a href="https://github.com/Sissaz" > <img width="25%"  src="https://cdn.discordapp.com/attachments/589442956021465142/971192953840222258/Sissasz.png" /></a>
+</div>
