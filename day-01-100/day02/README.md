@@ -6,8 +6,7 @@
 - https://replit.com/@Sissaz/day-2-2-exercise?v=1
 - https://replit.com/@Sissaz/day-2-3-exercise?v=1
 
-### Tip Calculator
-
+### 📝| [Tip Calculator](https://replit.com/@Sissaz/tip-calculator?v=1)
 ![tip-calculator](tip-calculator.gif)
 
 https://replit.com/@Sissaz/tip-calculator?v=1
