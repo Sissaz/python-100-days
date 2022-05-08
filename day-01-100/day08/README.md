@@ -8,6 +8,9 @@
 - [Exercise 6](https://github.com/Sissaz/python-100-days/blob/main/day-01-100/day08/caesar-cipher-part-3-reorganising-our-code.ipynb): Caesar Cipher Part 3 - Reorganising our Code
 - [Exercise 7](https://github.com/Sissaz/python-100-days/blob/main/day-01-100/day08/caesar-cipher-part-4-user-experience-improvements.ipynb): Caesar Cipher Part 4 - User Experience Improvements & Final Touches
 
+### 📝| [Caesar Cipher](https://replit.com/@Sissaz/caesar-cipher-4?v=1)
+![caesar-cipher](caesar-cipher.gif)
+
 <div align="center">
 <a href="https://github.com/Sissaz" > <img width="25%"  src="https://cdn.discordapp.com/attachments/589442956021465142/971192953840222258/Sissasz.png" /></a>
 </div>
