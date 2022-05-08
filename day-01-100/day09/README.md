@@ -1,5 +1,4 @@
-## Day 8 - Function Parameters & Caesar Cipher
-
+## Day 9 - Dictionaries, Nesting and the Secret Auction
 - [Exercise 1](https://github.com/Sissaz/python-100-days/blob/main/day-01-100/day08/functions-positional-arguments.ipynb): Functions with Inputs/Positional vs Keyword Arguments
 
 ### 📝| [Caesar Cipher](https://replit.com/@Sissaz/caesar-cipher-4?v=1)
