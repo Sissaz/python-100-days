@@ -1,5 +1,6 @@
 ## Day 9 - Dictionaries, Nesting and the Secret Auction
-- [Exercise 1](https://github.com/Sissaz/python-100-days/blob/main/day-01-100/day09/the-python-dictionary.ipynb): The Python Dictionary: Deep Dive.
+- [Exercise 1](https://github.com/Sissaz/python-100-days/blob/main/day-01-100/day09/the-python-dictionary.ipynb): The Python Dictionary: Deep Dive
+- [Exercise 2](https://github.com/Sissaz/python-100-days/blob/main/day-01-100/day09/grading-program.ipynb): Grading Program
 
 ### 📝| [Caesar Cipher](https://replit.com/@Sissaz/caesar-cipher-4?v=1)
 ![caesar-cipher](caesar-cipher.gif)
