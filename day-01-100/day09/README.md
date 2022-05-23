@@ -3,7 +3,7 @@
 - [Exercise 2](https://github.com/Sissaz/python-100-days/blob/main/day-01-100/day09/grading-program.ipynb): Grading Program
 - [Exercise 3](https://github.com/Sissaz/python-100-days/blob/main/day-01-100/day09/nesting-lists-and-dictionaries.ipynb): Nesting Lists and Dictionaries
 - [Exercise 4](https://github.com/Sissaz/python-100-days/blob/main/day-01-100/day09/dictionary-in-list.ipynb): Dictionary in List
-- [Exercise 5]([https://github.com/Sissaz/python-100-days/blob/main/day-01-100/day09/dictionary-in-list.ipynb](https://github.com/Sissaz/python-100-days/blob/main/day-01-100/day09/secret-auction-program.ipynb)): Secret Auction Program
+- [Exercise 5](https://github.com/Sissaz/python-100-days/blob/main/day-01-100/day09/secret-auction-program.ipynb): Secret Auction Program
 
 
 ### 📝| [Caesar Cipher](https://replit.com/@Sissaz/caesar-cipher-4?v=1)
