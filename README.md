@@ -21,7 +21,7 @@ To the mastery of Python and beyond!
 - [Day 8](https://github.com/Sissaz/python-100-days/blob/main/day-01-100/day08/README.md#day-8---function-parameters--caesar-cipher): Function Parameters & Caesar Cipher ✔️
 - [Day 9](https://github.com/Sissaz/python-100-days/blob/main/day-01-100/day09/README.md#day-9---dictionaries-nesting-and-the-secret-auction): Dictionaries, Nesting and the Secret Auction ✔️
 - [Day 10](https://github.com/Sissaz/python-100-days/blob/main/day-01-100/day10/README.md#day-10---function-return-values-and-the-calculator-project): Function Return Values and the Calculator Project ✔️
-- [Day 11](day11): Blackjack Capstone Project
+- [Day 11](https://github.com/Sissaz/python-100-days/tree/main/day11#day-11---blackjack-capstone-project): Blackjack Capstone Project
 - [Day 12](day12): Scope and Namespacing in Python
 - [Day 13](day13): Debugging: How to Find and Fix Errors in your Code
 - [Day 14](day14): Higher Lower Game Project
