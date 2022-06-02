@@ -1,7 +1,9 @@
 ## Day 11 - Blackjack Capstone Project
 - [Exercise 1](https://github.com/Sissaz/python-100-days/blob/main/day-01-100/day10/functions-with-outputs.ipynb): Functions with Outputs
+- [Exercise 2](https://github.com/Sissaz/python-100-days/blob/main/day-01-100/day11/blackjack.ipynb): Blackjack
 
-### 📝| [Blackjack](https://github.com/Sissaz/python-100-days/blob/main/day-01-100/day11/blackjack.ipynb)
+
+### 📝| [Blackjack](https://replit.com/@Sissaz/blackjack?v=1)
 ![blackjack](blackjack.gif)
 
 <div align="center">
